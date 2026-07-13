@@ -1,0 +1,19 @@
+# IDEA 配置缓存
+.idea/
+*.iml
+out/
+
+# Maven 编译打包产物
+target/
+
+# 运行生成的数据文件
+*.csv
+*.log
+
+# 系统隐藏文件
+.DS_Store
+Thumbs.db
+
+# 临时缓存文件
+*.tmp
+*.bak
